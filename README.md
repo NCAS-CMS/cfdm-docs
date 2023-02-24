@@ -8,7 +8,7 @@ the content of the built documentation for older, i.e. not the latest,
 versions of the [cfdm](https://github.com/NCAS-CMS/cfdm) library.
 
 Note that the contents of this directory, namely the built HTML documntation
-for the older versions, used to live in the core cf-python repository (as
+for the older versions, used to live in the core cfdm repository (as
 linked above) under `docs/`. They were moved out at version `1.10.0.3`.
 
 
