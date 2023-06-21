@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.copy
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.copy

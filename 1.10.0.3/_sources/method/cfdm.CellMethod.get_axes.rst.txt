@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.get_axes
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.get_axes

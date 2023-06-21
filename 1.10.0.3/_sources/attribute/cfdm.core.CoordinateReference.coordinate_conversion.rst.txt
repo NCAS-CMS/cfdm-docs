@@ -1,0 +1,6 @@
+cfdm.core.CoordinateReference.coordinate\_conversion
+====================================================
+
+.. currentmodule:: cfdm.core
+
+.. autoproperty:: CoordinateReference.coordinate_conversion

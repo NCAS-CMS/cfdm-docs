@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.__deepcopy__
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.__deepcopy__

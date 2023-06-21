@@ -1,0 +1,7 @@
+cfdm.is_log_level_debug
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.is_log_level_debug

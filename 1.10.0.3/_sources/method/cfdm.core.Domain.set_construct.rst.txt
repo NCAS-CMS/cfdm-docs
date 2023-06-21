@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Domain.set_construct
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Domain.set_construct

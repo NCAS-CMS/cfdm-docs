@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NumpyArray.get_filename
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NumpyArray.get_filename

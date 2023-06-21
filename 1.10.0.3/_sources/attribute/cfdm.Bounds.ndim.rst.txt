@@ -1,0 +1,7 @@
+cfdm.Bounds.ndim
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Bounds.ndim

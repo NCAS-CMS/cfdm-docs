@@ -1,0 +1,6 @@
+cfdm.core.CoordinateReference.datum
+===================================
+
+.. currentmodule:: cfdm.core
+
+.. autoproperty:: CoordinateReference.datum

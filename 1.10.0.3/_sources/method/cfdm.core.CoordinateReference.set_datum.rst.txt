@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.CoordinateReference.set_datum
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.CoordinateReference.set_datum

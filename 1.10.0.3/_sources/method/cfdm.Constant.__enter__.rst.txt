@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Constant.__enter__
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Constant.__enter__

@@ -1,0 +1,7 @@
+cfdm.unique_domains
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.unique_domains

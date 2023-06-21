@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.uncompress
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.uncompress

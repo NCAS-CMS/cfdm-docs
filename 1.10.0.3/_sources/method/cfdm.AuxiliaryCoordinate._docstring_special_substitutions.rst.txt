@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate._docstring_special_substitutions
+=========================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate._docstring_special_substitutions

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.DocstringRewriteMeta.mro
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.DocstringRewriteMeta.mro

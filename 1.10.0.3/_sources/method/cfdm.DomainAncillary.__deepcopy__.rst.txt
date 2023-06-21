@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.__deepcopy__
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.__deepcopy__

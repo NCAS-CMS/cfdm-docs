@@ -1,0 +1,7 @@
+cfdm.Count.size
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Count.size

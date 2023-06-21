@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.get_data
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.get_data

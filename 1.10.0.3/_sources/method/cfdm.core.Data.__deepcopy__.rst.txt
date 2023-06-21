@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Data.__deepcopy__
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Data.__deepcopy__

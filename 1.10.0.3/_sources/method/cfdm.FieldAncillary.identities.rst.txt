@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.FieldAncillary.identities
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.identities

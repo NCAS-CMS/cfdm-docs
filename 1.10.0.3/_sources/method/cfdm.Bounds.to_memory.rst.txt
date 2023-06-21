@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.to_memory
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.to_memory

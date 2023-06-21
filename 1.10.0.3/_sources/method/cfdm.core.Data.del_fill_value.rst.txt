@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Data.del_fill_value
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Data.del_fill_value

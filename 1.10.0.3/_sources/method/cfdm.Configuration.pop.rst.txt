@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Configuration.pop
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Configuration.pop
