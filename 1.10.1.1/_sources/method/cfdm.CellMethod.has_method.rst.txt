@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.has_method
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.has_method

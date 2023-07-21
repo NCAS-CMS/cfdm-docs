@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.__getitem__
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.__getitem__

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.nc_get_sample_dimension
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.nc_get_sample_dimension

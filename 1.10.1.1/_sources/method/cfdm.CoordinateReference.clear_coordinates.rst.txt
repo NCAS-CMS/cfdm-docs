@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CoordinateReference.clear_coordinates
+==========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CoordinateReference.clear_coordinates

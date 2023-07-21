@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.nc_set_variable_groups
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.nc_set_variable_groups

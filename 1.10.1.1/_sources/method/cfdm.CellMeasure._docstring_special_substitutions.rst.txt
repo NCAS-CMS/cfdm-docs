@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure._docstring_special_substitutions
+=================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure._docstring_special_substitutions
