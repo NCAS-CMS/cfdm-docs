@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDFArray._docstring_method_exclusions
+=============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDFArray._docstring_method_exclusions

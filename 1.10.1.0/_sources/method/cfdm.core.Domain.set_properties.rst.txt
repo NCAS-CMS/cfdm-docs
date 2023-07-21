@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Domain.set_properties
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Domain.set_properties

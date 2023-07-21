@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.identities
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.identities

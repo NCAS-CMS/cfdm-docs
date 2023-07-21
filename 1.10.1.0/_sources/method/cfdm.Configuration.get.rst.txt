@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Configuration.get
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Configuration.get
