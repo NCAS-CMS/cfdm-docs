@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Parameters.del_parameter
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Parameters.del_parameter

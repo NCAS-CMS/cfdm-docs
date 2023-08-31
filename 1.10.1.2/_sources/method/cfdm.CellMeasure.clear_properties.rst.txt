@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMeasure.clear_properties
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.clear_properties

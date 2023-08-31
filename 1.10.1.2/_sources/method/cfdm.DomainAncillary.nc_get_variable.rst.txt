@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAncillary.nc_get_variable
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.nc_get_variable

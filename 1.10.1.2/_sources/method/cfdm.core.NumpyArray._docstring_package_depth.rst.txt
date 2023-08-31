@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.NumpyArray._docstring_package_depth
+=============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.NumpyArray._docstring_package_depth

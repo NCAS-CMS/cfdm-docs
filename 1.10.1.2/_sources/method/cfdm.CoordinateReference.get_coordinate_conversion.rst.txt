@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CoordinateReference.get_coordinate_conversion
+==================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CoordinateReference.get_coordinate_conversion

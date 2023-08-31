@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.NumpyArray.copy
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.NumpyArray.copy

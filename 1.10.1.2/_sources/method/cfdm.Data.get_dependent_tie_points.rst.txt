@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.get_dependent_tie_points
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.get_dependent_tie_points

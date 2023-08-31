@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Bounds.inherited_properties
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.inherited_properties

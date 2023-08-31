@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Count.identity
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.identity

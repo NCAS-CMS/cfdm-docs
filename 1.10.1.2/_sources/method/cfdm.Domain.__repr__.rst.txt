@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.__repr__
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.__repr__

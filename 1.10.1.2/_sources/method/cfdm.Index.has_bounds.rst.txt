@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.has_bounds
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.has_bounds

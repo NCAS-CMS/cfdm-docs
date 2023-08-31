@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAxis.creation_commands
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAxis.creation_commands

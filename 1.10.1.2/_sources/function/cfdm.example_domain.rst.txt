@@ -1,0 +1,7 @@
+﻿cfdm.example_domain
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.example_domain

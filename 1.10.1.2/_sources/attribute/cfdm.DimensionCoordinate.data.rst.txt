@@ -1,0 +1,7 @@
+﻿cfdm.DimensionCoordinate.data
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DimensionCoordinate.data

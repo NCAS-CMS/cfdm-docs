@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedIndexedArray.subarray_shapes
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedArray.subarray_shapes

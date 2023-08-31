@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAncillary.apply_masking
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.apply_masking

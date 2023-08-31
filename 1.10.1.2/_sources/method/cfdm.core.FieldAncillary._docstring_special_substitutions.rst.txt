@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.FieldAncillary._docstring_special_substitutions
+=========================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.FieldAncillary._docstring_special_substitutions

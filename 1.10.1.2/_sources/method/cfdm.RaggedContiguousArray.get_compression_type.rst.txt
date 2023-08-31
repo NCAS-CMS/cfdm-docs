@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedContiguousArray.get_compression_type
+===============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedContiguousArray.get_compression_type

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.AuxiliaryCoordinate.__deepcopy__
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.__deepcopy__

@@ -1,0 +1,7 @@
+﻿cfdm.Count.shape
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Count.shape

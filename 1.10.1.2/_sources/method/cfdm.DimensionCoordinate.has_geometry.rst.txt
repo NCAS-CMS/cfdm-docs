@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DimensionCoordinate.has_geometry
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate.has_geometry

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CompressedArray.conformed_data
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CompressedArray.conformed_data

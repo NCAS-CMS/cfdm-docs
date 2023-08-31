@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.GatheredArray.__deepcopy__
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.__deepcopy__

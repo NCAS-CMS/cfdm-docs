@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMeasure.creation_commands
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.creation_commands

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Constructs.items
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Constructs.items

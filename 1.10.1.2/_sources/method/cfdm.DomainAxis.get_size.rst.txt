@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAxis.get_size
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAxis.get_size

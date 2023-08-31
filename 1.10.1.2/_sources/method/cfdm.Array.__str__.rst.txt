@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Array.__str__
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Array.__str__

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.CoordinateConversion.set_domain_ancillary
+===================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.CoordinateConversion.set_domain_ancillary

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DimensionCoordinate.properties
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate.properties

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.get_original_filenames
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.get_original_filenames

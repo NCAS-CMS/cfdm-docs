@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.cell_measure
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.cell_measure

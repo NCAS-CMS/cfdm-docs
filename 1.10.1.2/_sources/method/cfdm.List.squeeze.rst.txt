@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.List.squeeze
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.squeeze

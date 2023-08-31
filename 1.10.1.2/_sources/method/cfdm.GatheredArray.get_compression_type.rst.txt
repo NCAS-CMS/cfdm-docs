@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.GatheredArray.get_compression_type
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.get_compression_type

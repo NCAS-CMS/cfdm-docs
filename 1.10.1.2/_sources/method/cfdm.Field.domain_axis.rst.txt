@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Field.domain_axis
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.domain_axis

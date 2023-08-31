@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedIndexedContiguousArray.copy
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedContiguousArray.copy

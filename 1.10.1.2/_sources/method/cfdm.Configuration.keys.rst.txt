@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Configuration.keys
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Configuration.keys

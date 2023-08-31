@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Container._set_component
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Container._set_component

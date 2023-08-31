@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.ParametersDomainAncillaries.clear_domain_ancillaries
+==============================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.ParametersDomainAncillaries.clear_domain_ancillaries

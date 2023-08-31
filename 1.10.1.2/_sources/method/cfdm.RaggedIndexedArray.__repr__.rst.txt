@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedIndexedArray.__repr__
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedArray.__repr__

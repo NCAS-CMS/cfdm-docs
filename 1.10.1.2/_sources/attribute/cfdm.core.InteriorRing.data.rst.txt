@@ -1,0 +1,7 @@
+﻿cfdm.core.InteriorRing.data
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.InteriorRing.data

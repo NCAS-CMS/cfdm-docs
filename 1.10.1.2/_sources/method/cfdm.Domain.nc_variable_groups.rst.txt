@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.nc_variable_groups
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.nc_variable_groups

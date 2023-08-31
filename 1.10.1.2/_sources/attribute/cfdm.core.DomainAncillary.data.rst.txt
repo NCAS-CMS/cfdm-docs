@@ -1,0 +1,7 @@
+﻿cfdm.core.DomainAncillary.data
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.DomainAncillary.data

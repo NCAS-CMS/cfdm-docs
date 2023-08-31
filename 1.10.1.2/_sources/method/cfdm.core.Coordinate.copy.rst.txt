@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Coordinate.copy
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Coordinate.copy

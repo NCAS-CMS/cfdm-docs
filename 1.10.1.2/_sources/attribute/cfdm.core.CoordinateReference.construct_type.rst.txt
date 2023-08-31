@@ -1,0 +1,7 @@
+﻿cfdm.core.CoordinateReference.construct_type
+============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.CoordinateReference.construct_type

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.FieldAncillary.copy
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.copy

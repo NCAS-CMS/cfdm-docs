@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Field.coordinate
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.coordinate

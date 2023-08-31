@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.AuxiliaryCoordinate.creation_commands
+==========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.creation_commands

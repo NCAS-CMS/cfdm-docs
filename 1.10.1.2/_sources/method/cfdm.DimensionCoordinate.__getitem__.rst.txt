@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DimensionCoordinate.__getitem__
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate.__getitem__

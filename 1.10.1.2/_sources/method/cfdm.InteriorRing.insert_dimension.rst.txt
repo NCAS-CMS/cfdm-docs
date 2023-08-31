@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.insert_dimension
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.insert_dimension

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedIndexedContiguousArray._docstring_special_substitutions
+==================================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedContiguousArray._docstring_special_substitutions

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Bounds.apply_masking
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.apply_masking

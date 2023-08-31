@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Constant.__repr__
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Constant.__repr__

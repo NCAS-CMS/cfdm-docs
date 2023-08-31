@@ -1,0 +1,7 @@
+﻿cfdm.abspath
+============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.abspath

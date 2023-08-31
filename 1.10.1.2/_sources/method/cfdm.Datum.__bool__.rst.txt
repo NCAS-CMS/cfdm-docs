@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Datum.__bool__
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Datum.__bool__

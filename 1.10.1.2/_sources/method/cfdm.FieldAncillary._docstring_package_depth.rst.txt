@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.FieldAncillary._docstring_package_depth
+============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary._docstring_package_depth

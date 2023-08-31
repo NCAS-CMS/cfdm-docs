@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.AuxiliaryCoordinate.set_part_node_count
+============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.set_part_node_count

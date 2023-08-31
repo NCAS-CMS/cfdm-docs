@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.get_property
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.get_property

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedContiguousArray.subarrays
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedContiguousArray.subarrays

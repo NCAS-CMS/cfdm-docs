@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Field.climatological_time_axes
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.climatological_time_axes
