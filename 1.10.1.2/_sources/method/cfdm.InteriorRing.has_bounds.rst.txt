@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.has_bounds
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.has_bounds

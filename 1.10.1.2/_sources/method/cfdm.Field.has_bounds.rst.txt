@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Field.has_bounds
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.has_bounds

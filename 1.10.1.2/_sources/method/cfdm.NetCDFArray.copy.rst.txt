@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.NetCDFArray.copy
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDFArray.copy

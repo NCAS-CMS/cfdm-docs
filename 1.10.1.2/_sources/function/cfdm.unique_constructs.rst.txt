@@ -1,0 +1,7 @@
+﻿cfdm.unique_constructs
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.unique_constructs

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.identity
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.identity

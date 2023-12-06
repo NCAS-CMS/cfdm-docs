@@ -1,0 +1,7 @@
+﻿cfdm.Bounds.dtype
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Bounds.dtype

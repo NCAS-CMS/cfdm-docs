@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Container.copy
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Container.copy

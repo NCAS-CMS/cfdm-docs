@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DimensionCoordinate._docstring_method_exclusions
+=====================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate._docstring_method_exclusions

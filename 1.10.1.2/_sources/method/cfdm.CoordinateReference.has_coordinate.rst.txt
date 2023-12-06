@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CoordinateReference.has_coordinate
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CoordinateReference.has_coordinate

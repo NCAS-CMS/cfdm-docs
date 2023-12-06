@@ -1,0 +1,7 @@
+﻿cfdm.Array.dtype
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Array.dtype

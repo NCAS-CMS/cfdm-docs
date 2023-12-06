@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMeasure.get_property
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.get_property

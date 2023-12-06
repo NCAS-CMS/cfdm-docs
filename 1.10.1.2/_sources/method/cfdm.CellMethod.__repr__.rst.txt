@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMethod.__repr__
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.__repr__

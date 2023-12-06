@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing._docstring_method_exclusions
+==============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing._docstring_method_exclusions

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Coordinate.set_geometry
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Coordinate.set_geometry

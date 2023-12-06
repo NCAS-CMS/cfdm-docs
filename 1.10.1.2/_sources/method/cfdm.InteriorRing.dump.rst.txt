@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.dump
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.dump

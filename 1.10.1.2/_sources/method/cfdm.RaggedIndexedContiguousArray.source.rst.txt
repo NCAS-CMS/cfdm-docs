@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.RaggedIndexedContiguousArray.source
+========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedContiguousArray.source

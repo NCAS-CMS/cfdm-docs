@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Array.copy
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Array.copy

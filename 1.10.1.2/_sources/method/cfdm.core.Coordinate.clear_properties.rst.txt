@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Coordinate.clear_properties
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Coordinate.clear_properties

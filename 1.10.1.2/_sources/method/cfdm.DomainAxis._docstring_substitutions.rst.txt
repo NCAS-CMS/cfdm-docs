@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAxis._docstring_substitutions
+========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAxis._docstring_substitutions

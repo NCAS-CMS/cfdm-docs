@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.max
+=============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.max

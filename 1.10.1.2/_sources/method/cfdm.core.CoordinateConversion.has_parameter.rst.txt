@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.CoordinateConversion.has_parameter
+============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.CoordinateConversion.has_parameter

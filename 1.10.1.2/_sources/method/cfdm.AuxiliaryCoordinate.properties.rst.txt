@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.AuxiliaryCoordinate.properties
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.properties

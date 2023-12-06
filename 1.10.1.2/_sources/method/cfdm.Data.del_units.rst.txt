@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.del_units
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.del_units

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.PropertiesData.get_data
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.PropertiesData.get_data

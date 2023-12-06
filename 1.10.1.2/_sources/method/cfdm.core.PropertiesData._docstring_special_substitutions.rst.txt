@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.PropertiesData._docstring_special_substitutions
+=========================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.PropertiesData._docstring_special_substitutions

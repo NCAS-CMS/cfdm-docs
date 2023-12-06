@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CompressedArray.source
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CompressedArray.source

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.List.apply_masking
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.apply_masking

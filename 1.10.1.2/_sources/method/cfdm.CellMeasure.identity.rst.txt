@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMeasure.identity
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.identity

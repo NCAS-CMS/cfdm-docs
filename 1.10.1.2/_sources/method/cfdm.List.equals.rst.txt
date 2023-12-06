@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.List.equals
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.equals

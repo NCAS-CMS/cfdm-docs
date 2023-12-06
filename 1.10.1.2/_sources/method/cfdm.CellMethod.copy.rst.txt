@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMethod.copy
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.copy

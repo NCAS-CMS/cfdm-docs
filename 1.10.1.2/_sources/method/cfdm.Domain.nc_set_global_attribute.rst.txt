@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.nc_set_global_attribute
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.nc_set_global_attribute

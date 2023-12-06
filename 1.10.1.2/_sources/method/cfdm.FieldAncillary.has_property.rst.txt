@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.FieldAncillary.has_property
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.has_property

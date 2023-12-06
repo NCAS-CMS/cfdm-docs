@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.uncompress
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.uncompress

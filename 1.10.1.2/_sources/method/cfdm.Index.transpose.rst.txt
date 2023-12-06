@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.transpose
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.transpose

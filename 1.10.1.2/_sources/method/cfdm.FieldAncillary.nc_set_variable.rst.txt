@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.FieldAncillary.nc_set_variable
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.nc_set_variable

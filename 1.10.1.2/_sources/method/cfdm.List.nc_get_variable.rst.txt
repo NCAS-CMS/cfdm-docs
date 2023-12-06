@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.List.nc_get_variable
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.nc_get_variable

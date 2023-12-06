@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.get_tie_point_indices
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.get_tie_point_indices

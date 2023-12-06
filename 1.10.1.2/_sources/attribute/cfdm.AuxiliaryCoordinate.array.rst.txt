@@ -1,0 +1,7 @@
+﻿cfdm.AuxiliaryCoordinate.array
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.AuxiliaryCoordinate.array

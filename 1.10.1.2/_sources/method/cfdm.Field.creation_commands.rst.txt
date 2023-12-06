@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Field.creation_commands
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.creation_commands

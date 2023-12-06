@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Count.squeeze
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.squeeze

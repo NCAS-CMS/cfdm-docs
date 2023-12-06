@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.FieldAncillary.uncompress
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.uncompress

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAncillary.squeeze
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.squeeze

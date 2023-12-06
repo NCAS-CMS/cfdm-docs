@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.__getitem__
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.__getitem__

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Container.__deepcopy__
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Container.__deepcopy__

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAxis.nc_set_unlimited
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAxis.nc_set_unlimited

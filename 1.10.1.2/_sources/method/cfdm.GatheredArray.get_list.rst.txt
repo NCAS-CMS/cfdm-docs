@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.GatheredArray.get_list
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.get_list

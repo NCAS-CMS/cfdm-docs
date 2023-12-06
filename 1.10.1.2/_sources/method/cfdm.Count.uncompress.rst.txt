@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Count.uncompress
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.uncompress

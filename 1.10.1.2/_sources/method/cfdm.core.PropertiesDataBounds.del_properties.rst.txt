@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.PropertiesDataBounds.del_properties
+=============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.PropertiesDataBounds.del_properties

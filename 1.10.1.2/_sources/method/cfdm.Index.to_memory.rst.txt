@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.to_memory
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.to_memory

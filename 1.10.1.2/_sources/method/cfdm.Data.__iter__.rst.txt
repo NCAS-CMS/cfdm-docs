@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.__iter__
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.__iter__

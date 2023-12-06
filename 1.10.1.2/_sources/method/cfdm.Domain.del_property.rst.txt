@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Domain.del_property
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.del_property

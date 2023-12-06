@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CellMeasure.copy
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.copy

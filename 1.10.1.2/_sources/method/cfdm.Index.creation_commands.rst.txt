@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.creation_commands
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.creation_commands

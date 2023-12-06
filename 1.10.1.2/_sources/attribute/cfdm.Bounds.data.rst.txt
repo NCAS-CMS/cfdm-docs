@@ -1,0 +1,7 @@
+﻿cfdm.Bounds.data
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Bounds.data

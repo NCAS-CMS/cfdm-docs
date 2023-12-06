@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.nc_del_dimension
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.nc_del_dimension

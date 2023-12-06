@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.CellMethod._docstring_package_depth
+=============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.CellMethod._docstring_package_depth

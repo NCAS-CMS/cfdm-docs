@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.GatheredArray.subarray_shapes
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.subarray_shapes

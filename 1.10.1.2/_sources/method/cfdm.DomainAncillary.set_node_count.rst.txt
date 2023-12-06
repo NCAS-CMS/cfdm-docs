@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAncillary.set_node_count
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.set_node_count

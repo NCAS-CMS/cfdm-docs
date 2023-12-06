@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.DomainAncillary.__str__
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.__str__

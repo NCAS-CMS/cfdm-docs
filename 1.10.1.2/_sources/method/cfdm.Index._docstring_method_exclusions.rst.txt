@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index._docstring_method_exclusions
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index._docstring_method_exclusions

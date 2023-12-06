@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.core.Coordinate.get_climatology
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Coordinate.get_climatology
