@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDFArray.get_calendar
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDFArray.get_calendar

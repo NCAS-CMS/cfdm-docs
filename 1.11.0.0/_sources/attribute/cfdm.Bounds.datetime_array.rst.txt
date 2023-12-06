@@ -1,0 +1,7 @@
+cfdm.Bounds.datetime_array
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Bounds.datetime_array
