@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.has_fill_value
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.has_fill_value

@@ -1,0 +1,7 @@
+cfdm.core.Coordinate.dtype
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.Coordinate.dtype

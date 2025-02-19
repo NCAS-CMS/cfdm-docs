@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.CompressedArray.get_attributes
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CompressedArray.get_attributes

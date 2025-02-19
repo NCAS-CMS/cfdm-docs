@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.NetCDF4Array.__getitem__
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.__getitem__

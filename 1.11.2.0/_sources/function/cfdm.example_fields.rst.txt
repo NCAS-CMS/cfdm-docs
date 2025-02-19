@@ -1,0 +1,7 @@
+cfdm.example_fields
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.example_fields

@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.NetCDF4Array.get_addresses
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.get_addresses

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Array.get_calendar
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Array.get_calendar

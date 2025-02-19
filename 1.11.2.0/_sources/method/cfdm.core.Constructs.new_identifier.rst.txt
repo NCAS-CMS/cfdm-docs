@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Constructs.new_identifier
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Constructs.new_identifier

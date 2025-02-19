@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.identity
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.identity

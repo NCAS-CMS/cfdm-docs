@@ -1,0 +1,7 @@
+cfdm.NetCDFIndexer.shape
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.NetCDFIndexer.shape

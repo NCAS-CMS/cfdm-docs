@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDFArray.get_groups
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDFArray.get_groups

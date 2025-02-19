@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NumpyArray.to_memory
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NumpyArray.to_memory

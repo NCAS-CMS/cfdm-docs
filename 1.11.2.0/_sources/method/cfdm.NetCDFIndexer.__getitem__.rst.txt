@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDFIndexer.__getitem__
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDFIndexer.__getitem__

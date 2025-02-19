@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.NetCDF4Array.get_compression_type
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.get_compression_type

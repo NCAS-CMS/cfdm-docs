@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DimensionCoordinate.set_bounds
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate.set_bounds

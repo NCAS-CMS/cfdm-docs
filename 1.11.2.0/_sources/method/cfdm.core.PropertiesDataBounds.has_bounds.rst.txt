@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.PropertiesDataBounds.has_bounds
+=========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.PropertiesDataBounds.has_bounds

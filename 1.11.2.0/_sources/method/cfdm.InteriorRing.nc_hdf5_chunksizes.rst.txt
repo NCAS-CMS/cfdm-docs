@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.InteriorRing.nc_hdf5_chunksizes
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.nc_hdf5_chunksizes

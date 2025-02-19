@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.ParametersDomainAncillaries.get_parameter
+===================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.ParametersDomainAncillaries.get_parameter

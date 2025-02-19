@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.get_deterministic_name
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.get_deterministic_name

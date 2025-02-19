@@ -1,0 +1,7 @@
+cfdm.core.Bounds.size
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.Bounds.size

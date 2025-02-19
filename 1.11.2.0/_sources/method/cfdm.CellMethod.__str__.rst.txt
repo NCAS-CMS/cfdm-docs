@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.__str__
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.__str__

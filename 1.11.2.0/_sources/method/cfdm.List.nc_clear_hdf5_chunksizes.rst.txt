@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.List.nc_clear_hdf5_chunksizes
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.nc_clear_hdf5_chunksizes

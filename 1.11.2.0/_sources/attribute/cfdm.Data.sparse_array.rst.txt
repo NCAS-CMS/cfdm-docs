@@ -1,0 +1,7 @@
+cfdm.Data.sparse_array
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.sparse_array
