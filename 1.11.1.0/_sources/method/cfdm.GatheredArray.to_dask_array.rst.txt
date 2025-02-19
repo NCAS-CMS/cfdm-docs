@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.GatheredArray.to_dask_array
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.to_dask_array

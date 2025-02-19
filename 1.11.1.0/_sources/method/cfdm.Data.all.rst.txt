@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.all
+=============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.all

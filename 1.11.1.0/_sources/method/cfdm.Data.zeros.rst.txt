@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.zeros
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.zeros

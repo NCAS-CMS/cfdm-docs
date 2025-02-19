@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CoordinateConversion._docstring_package_depth
+==================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CoordinateConversion._docstring_package_depth

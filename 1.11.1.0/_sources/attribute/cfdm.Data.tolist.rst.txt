@@ -1,0 +1,7 @@
+﻿cfdm.Data.tolist
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.tolist

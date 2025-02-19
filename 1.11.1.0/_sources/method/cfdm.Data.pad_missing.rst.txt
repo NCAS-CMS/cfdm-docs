@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Data.pad_missing
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.pad_missing

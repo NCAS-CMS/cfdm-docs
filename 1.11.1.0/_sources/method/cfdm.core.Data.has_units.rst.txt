@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Data.has_units
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Data.has_units

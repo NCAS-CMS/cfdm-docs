@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.last_element
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.last_element

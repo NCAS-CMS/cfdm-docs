@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.Index.nc_hdf5_chunksizes
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.nc_hdf5_chunksizes

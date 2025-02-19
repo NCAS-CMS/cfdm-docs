@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedArray.get_Subarray
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedArray.get_Subarray

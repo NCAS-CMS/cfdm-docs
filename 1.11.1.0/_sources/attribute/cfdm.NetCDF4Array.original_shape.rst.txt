@@ -1,0 +1,7 @@
+﻿cfdm.NetCDF4Array.original_shape
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.NetCDF4Array.original_shape

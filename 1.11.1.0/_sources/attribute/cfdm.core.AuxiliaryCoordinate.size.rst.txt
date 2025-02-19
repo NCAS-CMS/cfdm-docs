@@ -1,0 +1,7 @@
+cfdm.core.AuxiliaryCoordinate.size
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.AuxiliaryCoordinate.size

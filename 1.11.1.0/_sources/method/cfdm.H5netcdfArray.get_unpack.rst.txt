@@ -1,0 +1,9 @@
+﻿:orphan:
+
+cfdm.H5netcdfArray.get_unpack
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.H5netcdfArray.get_unpack

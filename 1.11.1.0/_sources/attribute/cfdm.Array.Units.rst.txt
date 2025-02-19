@@ -1,0 +1,7 @@
+﻿cfdm.Array.Units
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Array.Units

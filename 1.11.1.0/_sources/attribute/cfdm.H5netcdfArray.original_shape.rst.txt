@@ -1,0 +1,7 @@
+﻿cfdm.H5netcdfArray.original_shape
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.H5netcdfArray.original_shape
