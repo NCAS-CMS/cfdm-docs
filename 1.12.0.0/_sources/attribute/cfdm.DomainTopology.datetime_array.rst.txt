@@ -1,0 +1,7 @@
+cfdm.DomainTopology.datetime_array
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DomainTopology.datetime_array

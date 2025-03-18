@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.transpose
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.transpose

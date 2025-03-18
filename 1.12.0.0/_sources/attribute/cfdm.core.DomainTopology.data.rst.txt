@@ -1,0 +1,7 @@
+cfdm.core.DomainTopology.data
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.DomainTopology.data

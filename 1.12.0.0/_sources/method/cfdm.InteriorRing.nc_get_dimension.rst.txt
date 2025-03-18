@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.nc_get_dimension
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.nc_get_dimension

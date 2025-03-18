@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.dask_compressed_array
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.dask_compressed_array

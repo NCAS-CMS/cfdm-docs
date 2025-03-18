@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.harden_mask
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.harden_mask

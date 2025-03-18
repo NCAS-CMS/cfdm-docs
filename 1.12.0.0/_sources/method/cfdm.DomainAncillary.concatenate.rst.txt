@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.concatenate
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.concatenate

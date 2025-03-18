@@ -1,0 +1,7 @@
+cfdm.core.PropertiesDataBounds.size
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.PropertiesDataBounds.size

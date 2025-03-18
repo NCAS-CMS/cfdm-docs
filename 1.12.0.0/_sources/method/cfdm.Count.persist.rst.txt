@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.persist
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.persist

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.replace_directory
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.replace_directory

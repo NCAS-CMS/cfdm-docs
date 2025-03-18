@@ -1,0 +1,7 @@
+cfdm.core.CellConnectivity.size
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.CellConnectivity.size

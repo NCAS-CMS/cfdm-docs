@@ -1,0 +1,7 @@
+cfdm.integer_dtype
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.integer_dtype

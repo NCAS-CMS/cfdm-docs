@@ -1,0 +1,7 @@
+cfdm.netcdf_flatten
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.netcdf_flatten
