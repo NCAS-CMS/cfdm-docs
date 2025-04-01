@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.DomainAncillary.has_data
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.DomainAncillary.has_data

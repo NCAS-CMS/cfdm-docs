@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.CoordinateReference.del_coordinate_conversion
+=======================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.CoordinateReference.del_coordinate_conversion

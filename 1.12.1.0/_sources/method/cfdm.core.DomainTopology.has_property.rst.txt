@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.DomainTopology.has_property
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.DomainTopology.has_property

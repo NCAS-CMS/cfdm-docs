@@ -1,0 +1,7 @@
+cfdm.DomainTopology.ndim
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DomainTopology.ndim

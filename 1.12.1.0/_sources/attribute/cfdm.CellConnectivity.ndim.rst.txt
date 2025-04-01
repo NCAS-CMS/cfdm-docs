@@ -1,0 +1,7 @@
+cfdm.CellConnectivity.ndim
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellConnectivity.ndim

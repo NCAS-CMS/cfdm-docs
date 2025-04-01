@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.DomainAncillary.del_property
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.DomainAncillary.del_property

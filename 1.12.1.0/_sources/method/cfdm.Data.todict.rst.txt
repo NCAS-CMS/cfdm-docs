@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.todict
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.todict

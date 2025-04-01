@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Constructs.construct_types
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Constructs.construct_types

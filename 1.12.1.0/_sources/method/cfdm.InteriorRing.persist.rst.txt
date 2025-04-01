@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.persist
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.persist

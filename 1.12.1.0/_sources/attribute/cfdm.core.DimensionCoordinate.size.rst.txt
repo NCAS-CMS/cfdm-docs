@@ -1,0 +1,7 @@
+cfdm.core.DimensionCoordinate.size
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.DimensionCoordinate.size

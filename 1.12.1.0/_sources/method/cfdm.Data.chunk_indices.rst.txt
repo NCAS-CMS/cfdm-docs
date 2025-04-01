@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.chunk_indices
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.chunk_indices

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.apply_masking
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.apply_masking

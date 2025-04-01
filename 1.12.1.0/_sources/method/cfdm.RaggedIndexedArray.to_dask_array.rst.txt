@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedArray.to_dask_array
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedArray.to_dask_array

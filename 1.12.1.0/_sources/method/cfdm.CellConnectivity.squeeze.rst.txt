@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.squeeze
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.squeeze

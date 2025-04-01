@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.DomainTopology.del_property
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.DomainTopology.del_property

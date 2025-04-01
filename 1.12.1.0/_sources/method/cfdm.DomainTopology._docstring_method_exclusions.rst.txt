@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology._docstring_method_exclusions
+================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology._docstring_method_exclusions

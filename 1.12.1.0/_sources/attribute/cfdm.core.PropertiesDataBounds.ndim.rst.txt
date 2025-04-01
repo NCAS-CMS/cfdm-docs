@@ -1,0 +1,7 @@
+cfdm.core.PropertiesDataBounds.ndim
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.PropertiesDataBounds.ndim

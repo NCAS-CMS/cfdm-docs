@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.NumpyArray._docstring_substitutions
+=============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.NumpyArray._docstring_substitutions
