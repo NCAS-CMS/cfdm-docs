@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.concatenate
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.concatenate

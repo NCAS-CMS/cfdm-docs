@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedContiguousArray.compressed_dimensions
+================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedContiguousArray.compressed_dimensions

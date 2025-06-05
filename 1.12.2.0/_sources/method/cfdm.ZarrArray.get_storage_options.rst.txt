@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.get_storage_options
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.get_storage_options

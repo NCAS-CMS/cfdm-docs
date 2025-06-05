@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.file_directories
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.file_directories

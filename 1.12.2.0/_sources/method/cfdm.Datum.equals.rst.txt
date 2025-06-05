@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Datum.equals
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Datum.equals

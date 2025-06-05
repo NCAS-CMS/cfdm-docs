@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.__getitem__
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.__getitem__

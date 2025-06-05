@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.apply_masking
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.apply_masking

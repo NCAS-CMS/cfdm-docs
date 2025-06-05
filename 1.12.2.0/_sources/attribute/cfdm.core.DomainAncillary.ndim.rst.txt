@@ -1,0 +1,7 @@
+cfdm.core.DomainAncillary.ndim
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.DomainAncillary.ndim

@@ -1,0 +1,7 @@
+cfdm.ZarrArray.dtype
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.ZarrArray.dtype

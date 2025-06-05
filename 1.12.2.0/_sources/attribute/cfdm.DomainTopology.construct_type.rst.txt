@@ -1,0 +1,7 @@
+cfdm.DomainTopology.construct_type
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DomainTopology.construct_type

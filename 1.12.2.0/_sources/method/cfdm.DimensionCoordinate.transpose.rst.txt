@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DimensionCoordinate.transpose
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DimensionCoordinate.transpose

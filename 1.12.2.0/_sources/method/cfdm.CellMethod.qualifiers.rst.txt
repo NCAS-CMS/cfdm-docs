@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.qualifiers
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.qualifiers

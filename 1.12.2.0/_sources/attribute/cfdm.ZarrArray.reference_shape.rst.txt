@@ -1,0 +1,7 @@
+cfdm.ZarrArray.reference_shape
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.ZarrArray.reference_shape

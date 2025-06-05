@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.cull_graph
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.cull_graph

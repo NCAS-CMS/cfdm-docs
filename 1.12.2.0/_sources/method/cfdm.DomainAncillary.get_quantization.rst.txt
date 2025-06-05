@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.get_quantization
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.get_quantization

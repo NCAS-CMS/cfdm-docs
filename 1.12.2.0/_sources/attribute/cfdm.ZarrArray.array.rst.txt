@@ -1,0 +1,7 @@
+cfdm.ZarrArray.array
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.ZarrArray.array

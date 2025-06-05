@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.normalise
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.normalise

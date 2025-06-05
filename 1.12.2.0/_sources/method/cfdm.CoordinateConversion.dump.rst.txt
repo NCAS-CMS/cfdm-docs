@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CoordinateConversion.dump
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CoordinateConversion.dump

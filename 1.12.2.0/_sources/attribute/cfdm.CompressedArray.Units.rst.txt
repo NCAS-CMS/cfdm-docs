@@ -1,0 +1,7 @@
+cfdm.CompressedArray.Units
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CompressedArray.Units

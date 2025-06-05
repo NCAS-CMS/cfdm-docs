@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.core.Constructs.filter_by_type
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.core.Constructs.filter_by_type

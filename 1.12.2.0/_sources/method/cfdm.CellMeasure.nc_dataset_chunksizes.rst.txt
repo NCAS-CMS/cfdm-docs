@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.nc_dataset_chunksizes
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.nc_dataset_chunksizes

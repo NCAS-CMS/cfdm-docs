@@ -1,0 +1,7 @@
+cfdm.core.CellConnectivity.shape
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.core.CellConnectivity.shape

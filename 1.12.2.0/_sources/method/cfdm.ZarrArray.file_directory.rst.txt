@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.file_directory
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.file_directory

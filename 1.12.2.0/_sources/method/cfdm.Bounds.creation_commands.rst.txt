@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.creation_commands
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.creation_commands

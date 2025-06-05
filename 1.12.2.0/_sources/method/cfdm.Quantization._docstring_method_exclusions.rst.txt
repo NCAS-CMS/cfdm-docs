@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Quantization._docstring_method_exclusions
+==============================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Quantization._docstring_method_exclusions

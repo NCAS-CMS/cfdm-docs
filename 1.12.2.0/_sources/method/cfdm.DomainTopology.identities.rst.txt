@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.identities
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.identities

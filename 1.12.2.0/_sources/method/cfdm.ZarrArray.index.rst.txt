@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.index
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.index
