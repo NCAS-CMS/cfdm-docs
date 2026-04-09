@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedContiguousArray.get_filename
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedContiguousArray.get_filename

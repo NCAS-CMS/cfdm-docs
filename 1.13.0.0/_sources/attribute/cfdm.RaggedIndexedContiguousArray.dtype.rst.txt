@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedContiguousArray.dtype
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.RaggedIndexedContiguousArray.dtype

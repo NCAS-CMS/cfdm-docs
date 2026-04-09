@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.file_directories
+=====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.file_directories

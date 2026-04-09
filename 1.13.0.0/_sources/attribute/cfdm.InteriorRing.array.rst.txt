@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.array
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.InteriorRing.array

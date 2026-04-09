@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.is_subspace
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.is_subspace

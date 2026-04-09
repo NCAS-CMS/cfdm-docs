@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Constant.copy
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Constant.copy

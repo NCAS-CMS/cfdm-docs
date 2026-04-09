@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.Units
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.GatheredArray.Units

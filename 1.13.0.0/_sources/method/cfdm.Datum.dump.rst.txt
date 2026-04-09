@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Datum.dump
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Datum.dump

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Constructs.copy
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Constructs.copy

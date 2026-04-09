@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.file_directories
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.file_directories

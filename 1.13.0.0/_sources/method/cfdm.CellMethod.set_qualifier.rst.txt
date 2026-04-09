@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.set_qualifier
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.set_qualifier

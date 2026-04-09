@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.dtype
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DomainTopology.dtype

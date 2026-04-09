@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.FieldAncillary.size
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.FieldAncillary.size

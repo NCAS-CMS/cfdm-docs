@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.nc_has_connectivity_dimension
+===================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.nc_has_connectivity_dimension

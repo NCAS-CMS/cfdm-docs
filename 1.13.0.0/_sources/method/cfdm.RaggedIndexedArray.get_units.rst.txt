@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedArray.get_units
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedArray.get_units

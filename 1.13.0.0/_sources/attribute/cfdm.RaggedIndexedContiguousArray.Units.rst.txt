@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedContiguousArray.Units
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.RaggedIndexedContiguousArray.Units

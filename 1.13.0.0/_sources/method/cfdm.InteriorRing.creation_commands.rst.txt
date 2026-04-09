@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.creation_commands
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.creation_commands

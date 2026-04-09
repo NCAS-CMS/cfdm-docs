@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.to_edge
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.to_edge

@@ -1,0 +1,7 @@
+cfdm.display_data
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.display_data

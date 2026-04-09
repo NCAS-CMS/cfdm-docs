@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.set_property
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.set_property

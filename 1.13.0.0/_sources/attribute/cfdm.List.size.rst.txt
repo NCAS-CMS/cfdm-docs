@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.size
+==============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.List.size

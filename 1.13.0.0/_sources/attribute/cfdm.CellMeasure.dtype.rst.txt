@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.dtype
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellMeasure.dtype

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.creation_commands
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.creation_commands

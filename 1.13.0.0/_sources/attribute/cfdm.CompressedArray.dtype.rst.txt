@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CompressedArray.dtype
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CompressedArray.dtype

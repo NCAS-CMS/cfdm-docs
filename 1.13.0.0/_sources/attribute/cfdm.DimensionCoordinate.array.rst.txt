@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DimensionCoordinate.array
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DimensionCoordinate.array

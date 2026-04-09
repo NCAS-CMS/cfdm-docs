@@ -1,0 +1,7 @@
+cfdm.netcdf_indexer
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.netcdf_indexer

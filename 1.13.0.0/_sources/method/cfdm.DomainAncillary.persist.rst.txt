@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.persist
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.persist

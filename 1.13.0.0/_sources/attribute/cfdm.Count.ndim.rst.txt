@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.ndim
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Count.ndim

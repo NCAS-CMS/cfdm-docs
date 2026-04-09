@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.FieldAncillary.datetime_array
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.FieldAncillary.datetime_array

@@ -1,0 +1,7 @@
+cfdm.dataset_flatten
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.dataset_flatten

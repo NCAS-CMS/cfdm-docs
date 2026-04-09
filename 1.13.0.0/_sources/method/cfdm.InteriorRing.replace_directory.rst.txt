@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.replace_directory
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.replace_directory

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.__array__
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.__array__

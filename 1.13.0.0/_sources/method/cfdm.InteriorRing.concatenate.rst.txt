@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.concatenate
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.concatenate

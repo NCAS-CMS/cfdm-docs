@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.dtype
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.List.dtype

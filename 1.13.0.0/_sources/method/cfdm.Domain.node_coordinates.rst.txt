@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Domain.node_coordinates
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Domain.node_coordinates

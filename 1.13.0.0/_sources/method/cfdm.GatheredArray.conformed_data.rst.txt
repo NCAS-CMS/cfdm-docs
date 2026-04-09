@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.conformed_data
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.conformed_data

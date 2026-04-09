@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.chunk_positions
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.chunk_positions

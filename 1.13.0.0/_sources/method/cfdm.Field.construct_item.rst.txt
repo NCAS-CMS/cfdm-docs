@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.construct_item
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.construct_item

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.copy
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.copy

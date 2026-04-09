@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.get_cell
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.get_cell

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.identities
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.identities

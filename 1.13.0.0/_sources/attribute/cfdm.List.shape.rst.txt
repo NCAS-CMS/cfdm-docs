@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.shape
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.List.shape

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.creation_commands
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Count.creation_commands

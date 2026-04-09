@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.Units
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.ZarrArray.Units

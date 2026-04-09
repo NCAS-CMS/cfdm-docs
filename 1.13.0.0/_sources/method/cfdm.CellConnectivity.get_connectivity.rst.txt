@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.get_connectivity
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.get_connectivity

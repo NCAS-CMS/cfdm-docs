@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.H5netcdfArray.size
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.H5netcdfArray.size

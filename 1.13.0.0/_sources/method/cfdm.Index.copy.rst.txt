@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Index.copy
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.copy

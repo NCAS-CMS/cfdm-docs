@@ -1,0 +1,7 @@
+cfdm.chunksize
+==============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.chunksize

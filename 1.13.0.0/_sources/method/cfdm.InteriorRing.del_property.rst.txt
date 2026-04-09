@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.del_property
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.del_property

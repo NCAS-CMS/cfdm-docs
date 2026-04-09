@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.persist_metadata
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.persist_metadata

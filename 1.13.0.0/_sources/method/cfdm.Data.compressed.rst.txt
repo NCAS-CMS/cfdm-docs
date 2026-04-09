@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.compressed
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.compressed

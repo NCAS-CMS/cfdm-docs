@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.shape
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.GatheredArray.shape

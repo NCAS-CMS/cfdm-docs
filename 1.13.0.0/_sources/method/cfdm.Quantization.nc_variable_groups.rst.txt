@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Quantization.nc_variable_groups
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Quantization.nc_variable_groups

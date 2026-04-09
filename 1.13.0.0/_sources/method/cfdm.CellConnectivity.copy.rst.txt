@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.copy
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.copy

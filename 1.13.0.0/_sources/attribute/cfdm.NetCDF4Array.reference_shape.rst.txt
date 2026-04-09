@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDF4Array.reference_shape
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.NetCDF4Array.reference_shape

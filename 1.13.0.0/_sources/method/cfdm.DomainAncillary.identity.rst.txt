@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.identity
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainAncillary.identity

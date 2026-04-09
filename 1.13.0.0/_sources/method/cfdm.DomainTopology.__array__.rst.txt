@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainTopology.__array__
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.DomainTopology.__array__
