@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.datetime_array
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellMeasure.datetime_array

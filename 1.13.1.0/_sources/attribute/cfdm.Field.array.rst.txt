@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.array
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Field.array

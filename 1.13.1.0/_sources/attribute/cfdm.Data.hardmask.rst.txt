@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.hardmask
+==================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.hardmask

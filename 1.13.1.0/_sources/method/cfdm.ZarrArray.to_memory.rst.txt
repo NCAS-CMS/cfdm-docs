@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.to_memory
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.to_memory

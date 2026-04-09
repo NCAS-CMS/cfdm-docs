@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Index.identities
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.identities

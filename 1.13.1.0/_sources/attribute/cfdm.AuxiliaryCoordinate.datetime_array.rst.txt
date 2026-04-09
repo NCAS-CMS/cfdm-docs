@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate.datetime_array
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.AuxiliaryCoordinate.datetime_array

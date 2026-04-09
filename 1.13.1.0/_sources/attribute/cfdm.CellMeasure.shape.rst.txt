@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.shape
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellMeasure.shape

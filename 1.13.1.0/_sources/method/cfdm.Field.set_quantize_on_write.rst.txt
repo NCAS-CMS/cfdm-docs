@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Field.set_quantize_on_write
+================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Field.set_quantize_on_write

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.normalise
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.normalise

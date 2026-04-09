@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDF4Array.is_subspace
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.is_subspace

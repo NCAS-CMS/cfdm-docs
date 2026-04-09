@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate.replace_directory
+==========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.replace_directory

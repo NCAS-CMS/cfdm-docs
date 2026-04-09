@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate.nc_del_node_coordinate_variable
+========================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.nc_del_node_coordinate_variable

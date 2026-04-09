@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDF4Array.get_unpack
+============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.get_unpack

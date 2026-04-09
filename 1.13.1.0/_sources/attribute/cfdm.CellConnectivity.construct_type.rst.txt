@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.construct_type
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellConnectivity.construct_type

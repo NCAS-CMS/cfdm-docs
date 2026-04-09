@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.NetCDF4Array.astype
+========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.NetCDF4Array.astype

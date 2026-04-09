@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate.__array__
+==================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.AuxiliaryCoordinate.__array__

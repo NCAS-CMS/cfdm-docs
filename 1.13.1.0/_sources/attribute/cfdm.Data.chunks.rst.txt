@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.chunks
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.chunks

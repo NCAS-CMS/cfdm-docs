@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Index.clear_properties
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Index.clear_properties

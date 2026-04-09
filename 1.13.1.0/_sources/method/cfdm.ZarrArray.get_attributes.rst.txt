@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.get_attributes
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.get_attributes

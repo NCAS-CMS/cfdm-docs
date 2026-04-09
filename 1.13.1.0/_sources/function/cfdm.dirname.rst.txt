@@ -1,0 +1,7 @@
+cfdm.dirname
+============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.dirname

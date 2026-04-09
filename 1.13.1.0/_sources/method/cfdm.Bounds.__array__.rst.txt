@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Bounds.__array__
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Bounds.__array__

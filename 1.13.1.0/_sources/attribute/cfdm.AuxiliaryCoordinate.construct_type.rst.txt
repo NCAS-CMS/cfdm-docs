@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.AuxiliaryCoordinate.construct_type
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.AuxiliaryCoordinate.construct_type

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.fill_value
+====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.fill_value

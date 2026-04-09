@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.__array__
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.__array__

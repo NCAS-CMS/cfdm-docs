@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.dump
+==============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.dump

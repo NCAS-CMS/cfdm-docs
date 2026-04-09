@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CompressedArray.subarrays
+==============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CompressedArray.subarrays

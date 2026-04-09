@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.astype
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.astype

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.reshape
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.reshape

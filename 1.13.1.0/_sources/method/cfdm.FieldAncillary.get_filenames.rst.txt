@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.FieldAncillary.get_filenames
+=================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.FieldAncillary.get_filenames

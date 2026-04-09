@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.masked_values
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.masked_values

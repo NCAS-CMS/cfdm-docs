@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DimensionCoordinate.interior_ring
+======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DimensionCoordinate.interior_ring

@@ -1,0 +1,7 @@
+cfdm.persist_data
+=================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autofunction:: cfdm.persist_data

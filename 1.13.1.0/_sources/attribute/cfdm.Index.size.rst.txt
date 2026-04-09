@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Index.size
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Index.size

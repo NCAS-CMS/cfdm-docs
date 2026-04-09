@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.get_data
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.InteriorRing.get_data

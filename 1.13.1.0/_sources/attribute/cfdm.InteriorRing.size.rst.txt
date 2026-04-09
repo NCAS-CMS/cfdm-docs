@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.size
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.InteriorRing.size

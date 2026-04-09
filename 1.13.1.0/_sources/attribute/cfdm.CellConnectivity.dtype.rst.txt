@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.dtype
+===========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.CellConnectivity.dtype

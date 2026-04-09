@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMethod.del_qualifier
+=============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMethod.del_qualifier

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.compressed_array
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.compressed_array

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.List.concatenate
+=====================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.List.concatenate

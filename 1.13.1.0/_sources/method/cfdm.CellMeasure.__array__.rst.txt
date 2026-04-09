@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellMeasure.__array__
+==========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellMeasure.__array__

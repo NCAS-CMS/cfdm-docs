@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.DomainAncillary.construct_type
+===================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.DomainAncillary.construct_type

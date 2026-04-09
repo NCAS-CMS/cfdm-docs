@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Count.datetime_array
+=========================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Count.datetime_array

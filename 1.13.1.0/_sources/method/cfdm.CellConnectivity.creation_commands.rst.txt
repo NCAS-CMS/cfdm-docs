@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.CellConnectivity.creation_commands
+=======================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.CellConnectivity.creation_commands

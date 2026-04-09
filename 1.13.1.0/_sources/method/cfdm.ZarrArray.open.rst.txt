@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.ZarrArray.open
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.ZarrArray.open

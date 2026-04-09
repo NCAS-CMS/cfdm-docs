@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.dtype
+=======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.InteriorRing.dtype

@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Constructs.domain_axis_identity
+====================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Constructs.domain_axis_identity

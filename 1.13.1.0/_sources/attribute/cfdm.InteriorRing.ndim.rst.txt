@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.InteriorRing.ndim
+======================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.InteriorRing.ndim

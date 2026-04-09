@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.numblocks
+===================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.numblocks

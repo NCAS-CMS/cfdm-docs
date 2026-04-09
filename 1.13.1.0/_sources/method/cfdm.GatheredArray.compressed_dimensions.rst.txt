@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.GatheredArray.compressed_dimensions
+========================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.GatheredArray.compressed_dimensions

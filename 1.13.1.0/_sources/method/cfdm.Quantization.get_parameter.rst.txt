@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Quantization.get_parameter
+===============================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Quantization.get_parameter

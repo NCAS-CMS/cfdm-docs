@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.RaggedIndexedContiguousArray.get_compressed_axes
+=====================================================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.RaggedIndexedContiguousArray.get_compressed_axes

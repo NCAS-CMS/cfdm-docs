@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.nbytes
+================
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Data.nbytes

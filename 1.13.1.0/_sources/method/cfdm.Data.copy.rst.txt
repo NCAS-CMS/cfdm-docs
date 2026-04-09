@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Data.copy
+==============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. automethod:: cfdm.Data.copy

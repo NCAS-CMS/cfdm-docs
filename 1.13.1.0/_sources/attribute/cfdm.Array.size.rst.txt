@@ -1,0 +1,9 @@
+:orphan:
+
+cfdm.Array.size
+===============
+
+.. currentmodule:: cfdm
+.. default-role:: obj
+
+.. autoattribute:: cfdm.Array.size
